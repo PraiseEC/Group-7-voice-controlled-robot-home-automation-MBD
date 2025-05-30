@@ -39,6 +39,13 @@ This project simulates a voice-controlled robot using MATLAB Simulink and Statef
 
 ![scope](screenshots/scope_output.png)
 
-## 🧾 Author
-**Egwuonwu Praise Chimazurum**  
-Mechatronics Engineering, Bells University of Technology
+## 📜 License  
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.  
+
+---
+
+**🔗 Acknowledgments**  
+- MATLAB Community for open-source libraries.  
+- OpenAI for NLP inspiration.
+- Bells University of Technology- New Horizons for the opportunity and resources used to create this project
+-Mr Ayuba Muhammad for guidance and supervision over the project.
