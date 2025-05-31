@@ -29,16 +29,6 @@ This project simulates a voice-controlled robot using MATLAB Simulink and Statef
 
 ```
 
-## 📷 Screenshots
-
-*Stateflow Logic:*
-
-![chart](screenshots/stateflow_chart.png)
-
-*Scope Output:*
-
-![scope](screenshots/scope_output.png)
-
 ## 📜 License  
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.  
 
